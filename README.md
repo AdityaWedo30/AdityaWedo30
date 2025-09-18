@@ -1,6 +1,6 @@
 <!-- Header / Hero -->
 
-![Aditya wedo](retake.png)
+[Aditya wedo](retake.png)
 
 ## 🔭 About Me
 
@@ -19,7 +19,6 @@ I am a developer focused on building web and mobile applications, with a strong 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaWedo30/AdityaWedo30/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaWedo30/AdityaWedo30/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdityaWedo30/AdityaWedo30/output/pacman-contribution-graph.svg">
-</picture>
 
 ## 📫 Contact Me
 
