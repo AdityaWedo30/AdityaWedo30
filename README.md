@@ -4,7 +4,7 @@
 
 ### 🔭 About Me
 
-I am a developer focused on building web and mobile applications, with a strong emphasis on frontend development and UI/UX design. My interests include creating simple yet functional user interfaces using Figma and developing Android frontends with Kotlin. I also have basic knowledge of backend development, though not at a professional level. I enjoy designing engaging user experiences and contributing to open-source projects.
+I am a Mobile Application and Technology student at Binus University, focusing on mobile application development with an emphasis on frontend and UI/UX design. I enjoy creating simple yet functional interfaces using Figma, developing Android frontends with Kotlin, and I also have some skills in backend development, though not at a professional level.
 
 ---
 
