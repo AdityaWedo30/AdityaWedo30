@@ -14,14 +14,14 @@ I am a developer focused on building web and mobile applications, with a strong 
 
 ---
 
-### 🌱 I’m currently learning:
+### 📚 I’m currently learning:
 
 - **SwiftUI** → for iOS development
 - **Laravel** → for backend web development
 
 ---
 
-### 📫 Contact Me
+### 📞 Contact Me
 
 - ✉️ Email: adityawedo2@gmail.com
 - 💼 LinkedIn: [Aditya Wedo Pangestu](https://www.linkedin.com/in/aditya-wedo-pangestu)
