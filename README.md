@@ -1,8 +1,6 @@
 <!-- Header / Hero -->
 
-![Aditya wedo](rev-2.png)
-
----
+![Aditya wedo](retake.png)
 
 ## 🔭 About Me
 
