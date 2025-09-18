@@ -1,13 +1,13 @@
 <!-- Header / Hero -->
 
 <h2 align="center">Hi, my name Aditya Wedo Pangestu </h2>
-<p align="center">UI/UX Design • Design Graphic • Developer • Open Source Lover</p>
+<p align="center">UI/UX Design • Developer • Design Graphic •  Open Source Lover</p>
 
 ---
 
 ## 🔭 Tentang Saya
 
-"Saya seorang pengembang yang berfokus pada pengembangan aplikasi mobile dan web. Minat saya terletak pada desain UI/UX menggunakan Figma, serta pengembangan Android dengan Kotlin & Flutter. Saya menyukai desain antarmuka yang sederhana namun tetap fungsional, serta senang berkontribusi pada proyek open source."
+I am a developer focused on building mobile and web applications. My interests lie in UI/UX design using Figma and Android development with Kotlin. I enjoy creating simple yet functional user interfaces and am passionate about contributing to open-source projects.
 
 ---
 
