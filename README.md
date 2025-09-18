@@ -1,8 +1,5 @@
 <!-- Header / Hero -->
 
-<!-- <h2 align="center">Hi, my name Aditya Wedo Pangestu </h2>
-<p align="center">UI/UX Design • Developer • Design Graphic •  Open Source Lover</p> -->
-
 ![Aditya wedo](rev-2.png)
 
 ---
