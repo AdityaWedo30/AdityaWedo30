@@ -4,9 +4,9 @@
 
 ---
 
-## 🔭 Tentang Saya
+## 🔭 About Me
 
-I am a developer focused on building mobile and web applications. My interests lie in UI/UX design using Figma and Android development with Kotlin. I enjoy creating simple yet functional user interfaces and am passionate about contributing to open-source projects.
+I am a developer focused on building web and mobile applications, with a strong emphasis on frontend development and UI/UX design. My interests include creating simple yet functional user interfaces using Figma and developing Android frontends with Kotlin. I also have basic knowledge of backend development, though not at a professional level. I enjoy designing engaging user experiences and contributing to open-source projects.
 
 ---
 
@@ -21,6 +21,13 @@ I am a developer focused on building mobile and web applications. My interests l
 - **Masakin (Android App)** → Aplikasi pencari resep makanan (TheMealDB API).
 - **Weather App** → Aplikasi cuaca sederhana dengan OpenWeatherMap API.
 - **Portfolio Website** → Profil interaktif dengan animasi dan dark theme.
+
+---
+
+🌱 I’m currently learning:
+
+- **SwiftUI** → for iOS development
+- **Laravel** → for backend web development
 
 ---
 
