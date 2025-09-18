@@ -1,13 +1,9 @@
-Skip to content
-Chat history
-
-You said:
 <!-- Header / Hero -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving" width="120" style="border-radius:50%"/>
 </p>
 
-<h1 align="center">Hi, saya **Nama Anda** 👋</h1>
+<h2 align="center">Hi, saya **Aditya Wedo Pangestu** 👋</h2>
 <p align="center">UI/UX Design • Design Graphic • Developer • Open Source Lover</p>
 
 <p align="center">
@@ -19,7 +15,7 @@ You said:
 ## 🔭 Tentang Saya
 
 Saya adalah developer yang suka membuat aplikasi mobile dan web.  
-Fokus: **Figma(UI/UX**,Kotlin (Android) dan desain UI yang simple tapi fungsional.  
+Fokus: **Figma(UI/UX)**,Kotlin (Android) dan desain UI yang simple tapi fungsional.  
 Saya juga senang berkontribusi ke proyek open source.
 
 ---
@@ -49,15 +45,6 @@ Saya juga senang berkontribusi ke proyek open source.
 
 ---
 
-## 📊 GitHub Stat
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="streak" />
-</p>
-
----
-
 ## 📫 Kontak
 
 - ✉️ Email: email@domain.com
@@ -65,60 +52,3 @@ Saya juga senang berkontribusi ke proyek open source.
 - 🐦 Twitter: [@yourhandle](https://twitter.com)
 
 ---
-
-✨ _Profil ini otomatis update berkat layanan seperti **github-readme-stats** & **activity-graph**._
-ChatGPT said:
-Keren banget, kamu sudah bikin template profil GitHub yang menarik 🎉
-
-Aku kasih beberapa saran biar makin rapi dan personal:
-
-Ganti placeholder
-
-**Nama Anda** → isi nama kamu.
-
-USERNAME di bagian stats → ganti dengan username GitHub kamu.
-
-email@domain.com, your-linkedin, @yourhandle → isi kontak asli.
-
-Rapiin heading
-Di <h1> kamu pakai **Nama Anda**, padahal Markdown tebal tidak bekerja dalam HTML. Jadi langsung aja tulis nama tanpa **.
-
-<h1 align="center">Hi, saya Aditya 👋</h1>
-Tambahkan Activity Graph (opsional)
-Bisa pakai:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
-Warna konsisten
-Di bagian readme-typing-svg, kamu sudah pakai warna lime #CBFE00. Bisa konsisten juga di shield.io badge dengan style=flat-square&color=CBFE00 kalau mau nyatuin tema.
-
-Tambahkan section fun/opsional
-Misalnya:
-
-“🎮 Saat ini lagi belajar game dev di Unity & Godot.”
-
-“☕ Ngoding sambil kopi hitam.”
-
-Tambahin ![GitHub followers] atau ![Profile views] biar lebih interaktif.
-
-Contoh tweak bagian hero:
-
-<!-- Header / Hero -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving" width="120" style="border-radius:50%"/>
-</p>
-
-<h1 align="center">Hi, saya Aditya 👋</h1>
-<p align="center">UI/UX Designer • Graphic Design • Android Developer • Open Source Lover</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=CBFE00&center=true&vCenter=true&width=650&lines=🔵+Halo!+Selamat+datang.;🔵+Saya+membuat+aplikasi+Android.;🟢+Scroll+ke+bawah+untuk+portofolio."/>
-</p>
-Mau aku buatin versi full yang sudah diisi dengan nama kamu (Aditya Wedo) dan username GitHub (AdityaWedo30) biar langsung bisa dipakai copy-paste?
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
