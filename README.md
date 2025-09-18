@@ -25,14 +25,6 @@ I am a developer focused on building mobile and web applications. My interests l
 
 ---
 
-## 📫 Kontak
-
-- ✉️ Email: adityawedo2@gmail.com
-- 💼 LinkedIn: [Aditya Wedo Pangestu](https://www.linkedin.com/in/aditya-wedo-pangestu)
-- 📸 Instagram: [adtyawdp\_](https://instagram.com/yourhandle)
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaWedo30/AdityaWedo30/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaWedo30/AdityaWedo30/output/pacman-contribution-graph.svg">
@@ -40,3 +32,9 @@ I am a developer focused on building mobile and web applications. My interests l
 </picture>
 
 ---
+
+## 📫 Kontak
+
+- ✉️ Email: adityawedo2@gmail.com
+- 💼 LinkedIn: [Aditya Wedo Pangestu](https://www.linkedin.com/in/aditya-wedo-pangestu)
+- 📸 Instagram: [adtyawdp\_](https://instagram.com/yourhandle)
