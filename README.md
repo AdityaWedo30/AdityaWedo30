@@ -16,14 +16,6 @@ I am a developer focused on building web and mobile applications, with a strong 
 
 ---
 
-## 🚀 Highlight Projects
-
-- **Masakin (Android App)** → Aplikasi pencari resep makanan (TheMealDB API).
-- **Weather App** → Aplikasi cuaca sederhana dengan OpenWeatherMap API.
-- **Portfolio Website** → Profil interaktif dengan animasi dan dark theme.
-
----
-
 🌱 I’m currently learning:
 
 - **SwiftUI** → for iOS development
@@ -39,7 +31,7 @@ I am a developer focused on building web and mobile applications, with a strong 
 
 ---
 
-## 📫 Kontak
+## 📫 Contact Me
 
 - ✉️ Email: adityawedo2@gmail.com
 - 💼 LinkedIn: [Aditya Wedo Pangestu](https://www.linkedin.com/in/aditya-wedo-pangestu)
