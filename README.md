@@ -19,14 +19,6 @@ I am a developer focused on building web and mobile applications, with a strong 
 - **SwiftUI** → for iOS development
 - **Laravel** → for backend web development
 
----
-
-### 📞 Contact Me
-
-- ✉️ Email: adityawedo2@gmail.com
-- 💼 LinkedIn: [Aditya Wedo Pangestu](https://www.linkedin.com/in/aditya-wedo-pangestu)
-- 📸 Instagram: [adtyawdp\_](https://instagram.com/yourhandle)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaWedo30/AdityaWedo30/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaWedo30/AdityaWedo30/output/pacman-contribution-graph.svg">
