@@ -5,7 +5,7 @@ My name is Aditya Wedo Pangestu, and I usually go by Adit. I am currently a 5th-
 ---
 
 ###  🔧 Tools I Use
-[![Learning Skills](https://skillicons.dev/icons?i=c,flutter,kotlin,css,html,js,mysql,supabase,firebase,nodejs,eclipse,java,ae,ps,figma,arduino,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,flutter,kotlin,css,html,js,mysql,supabase,firebase,nodejs,eclipse,java,ae,ps,figma,arduino)](https://skillicons.dev)
 
 ---
 
