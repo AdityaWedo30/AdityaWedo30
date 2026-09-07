@@ -1,6 +1,6 @@
 
 ### About Me
-My name is Aditya Wedo Pangestu, and I usually go by Adit. I am currently a 5th-semester undergraduate student majoring in Mobile Application and Technology at Bina Nusantara University (BINUS).
+My name is Aditya Wedo Pangestu, and I usually go by Adit. I am currently a 6th-semester undergraduate student majoring in Mobile Application and Technology at Bina Nusantara University (BINUS).
 
 ---
 
